@@ -1,4 +1,4 @@
-The Faculty of Science **Computational and Data Systems Initiative (CDSI)** at McGill University is a hub for research collaboration and training in the broad area of computational, statistical and quantitative research, with a focus on the challenges of data analysis.
+The **Computational and Data Systems Initiative (CDSI)** at the Faculty of Science, McGill University, is a hub for research collaboration and training in the broad area of computational, statistical and quantitative research, with a focus on the challenges of data analysis.
 
 Amongst other activities, the CDSI offers short workshops on topics related to advanced statistical methods, programming languages, artificial intelligence, and general data science.
 
